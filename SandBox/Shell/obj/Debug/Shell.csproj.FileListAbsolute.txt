@@ -32,3 +32,32 @@ C:\VS Projects\SandBox\Shell\obj\Debug\Shell.Properties.Resources.resources
 C:\VS Projects\SandBox\Shell\obj\Debug\Shell.csproj.GenerateResource.Cache
 C:\VS Projects\SandBox\Shell\obj\Debug\Shell.exe
 C:\VS Projects\SandBox\Shell\obj\Debug\Shell.pdb
+C:\Users\PC\Source\Repos\test\SandBox\Shell\bin\Debug\Shell.exe.config
+C:\Users\PC\Source\Repos\test\SandBox\Shell\bin\Debug\Shell.exe
+C:\Users\PC\Source\Repos\test\SandBox\Shell\bin\Debug\Shell.pdb
+C:\Users\PC\Source\Repos\test\SandBox\Shell\bin\Debug\Common.dll
+C:\Users\PC\Source\Repos\test\SandBox\Shell\bin\Debug\Meetings.dll
+C:\Users\PC\Source\Repos\test\SandBox\Shell\bin\Debug\Participants.dll
+C:\Users\PC\Source\Repos\test\SandBox\Shell\bin\Debug\BusinessLogic.dll
+C:\Users\PC\Source\Repos\test\SandBox\Shell\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\PC\Source\Repos\test\SandBox\Shell\bin\Debug\Common.pdb
+C:\Users\PC\Source\Repos\test\SandBox\Shell\bin\Debug\Meetings.pdb
+C:\Users\PC\Source\Repos\test\SandBox\Shell\bin\Debug\Participants.pdb
+C:\Users\PC\Source\Repos\test\SandBox\Shell\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\PC\Source\Repos\test\SandBox\Shell\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\PC\Source\Repos\test\SandBox\Shell\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\PC\Source\Repos\test\SandBox\Shell\bin\Debug\Prism.xml
+C:\Users\PC\Source\Repos\test\SandBox\Shell\bin\Debug\Prism.Unity.Wpf.xml
+C:\Users\PC\Source\Repos\test\SandBox\Shell\bin\Debug\Prism.Wpf.xml
+C:\Users\PC\Source\Repos\test\SandBox\Shell\bin\Debug\BusinessLogic.pdb
+C:\Users\PC\Source\Repos\test\SandBox\Shell\obj\Debug\Shell.csprojResolveAssemblyReference.cache
+C:\Users\PC\Source\Repos\test\SandBox\Shell\obj\Debug\ShellView.g.cs
+C:\Users\PC\Source\Repos\test\SandBox\Shell\obj\Debug\App.g.cs
+C:\Users\PC\Source\Repos\test\SandBox\Shell\obj\Debug\Shell_MarkupCompile.cache
+C:\Users\PC\Source\Repos\test\SandBox\Shell\obj\Debug\Shell_MarkupCompile.lref
+C:\Users\PC\Source\Repos\test\SandBox\Shell\obj\Debug\ShellView.baml
+C:\Users\PC\Source\Repos\test\SandBox\Shell\obj\Debug\Shell.g.resources
+C:\Users\PC\Source\Repos\test\SandBox\Shell\obj\Debug\Shell.Properties.Resources.resources
+C:\Users\PC\Source\Repos\test\SandBox\Shell\obj\Debug\Shell.csproj.GenerateResource.Cache
+C:\Users\PC\Source\Repos\test\SandBox\Shell\obj\Debug\Shell.exe
+C:\Users\PC\Source\Repos\test\SandBox\Shell\obj\Debug\Shell.pdb

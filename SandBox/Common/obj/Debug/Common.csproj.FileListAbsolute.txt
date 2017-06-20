@@ -42,3 +42,26 @@ C:\VS Projects\SandBox\Common\obj\Debug\Common.Properties.Resources.resources
 C:\VS Projects\SandBox\Common\obj\Debug\Common.csproj.GenerateResource.Cache
 C:\VS Projects\SandBox\Common\obj\Debug\Common.dll
 C:\VS Projects\SandBox\Common\obj\Debug\Common.pdb
+C:\Users\PC\Source\Repos\test\SandBox\Common\bin\Debug\Common.dll
+C:\Users\PC\Source\Repos\test\SandBox\Common\bin\Debug\Common.pdb
+C:\Users\PC\Source\Repos\test\SandBox\Common\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\PC\Source\Repos\test\SandBox\Common\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\PC\Source\Repos\test\SandBox\Common\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\PC\Source\Repos\test\SandBox\Common\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\PC\Source\Repos\test\SandBox\Common\bin\Debug\Prism.dll
+C:\Users\PC\Source\Repos\test\SandBox\Common\bin\Debug\Prism.Unity.Wpf.dll
+C:\Users\PC\Source\Repos\test\SandBox\Common\bin\Debug\Prism.Wpf.dll
+C:\Users\PC\Source\Repos\test\SandBox\Common\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\PC\Source\Repos\test\SandBox\Common\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\PC\Source\Repos\test\SandBox\Common\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\PC\Source\Repos\test\SandBox\Common\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\PC\Source\Repos\test\SandBox\Common\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\PC\Source\Repos\test\SandBox\Common\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\PC\Source\Repos\test\SandBox\Common\bin\Debug\Prism.xml
+C:\Users\PC\Source\Repos\test\SandBox\Common\bin\Debug\Prism.Unity.Wpf.xml
+C:\Users\PC\Source\Repos\test\SandBox\Common\bin\Debug\Prism.Wpf.xml
+C:\Users\PC\Source\Repos\test\SandBox\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\PC\Source\Repos\test\SandBox\Common\obj\Debug\Common.Properties.Resources.resources
+C:\Users\PC\Source\Repos\test\SandBox\Common\obj\Debug\Common.csproj.GenerateResource.Cache
+C:\Users\PC\Source\Repos\test\SandBox\Common\obj\Debug\Common.dll
+C:\Users\PC\Source\Repos\test\SandBox\Common\obj\Debug\Common.pdb

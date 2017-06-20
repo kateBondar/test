@@ -25,3 +25,27 @@ C:\VS Projects\SandBox\Meetings\obj\Debug\Meetings.Properties.Resources.resource
 C:\VS Projects\SandBox\Meetings\obj\Debug\Meetings.csproj.GenerateResource.Cache
 C:\VS Projects\SandBox\Meetings\obj\Debug\Meetings.dll
 C:\VS Projects\SandBox\Meetings\obj\Debug\Meetings.pdb
+C:\Users\PC\Source\Repos\test\SandBox\Meetings\bin\Debug\Meetings.dll
+C:\Users\PC\Source\Repos\test\SandBox\Meetings\bin\Debug\Meetings.pdb
+C:\Users\PC\Source\Repos\test\SandBox\Meetings\bin\Debug\BusinessLogic.dll
+C:\Users\PC\Source\Repos\test\SandBox\Meetings\bin\Debug\Common.dll
+C:\Users\PC\Source\Repos\test\SandBox\Meetings\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\PC\Source\Repos\test\SandBox\Meetings\bin\Debug\BusinessLogic.pdb
+C:\Users\PC\Source\Repos\test\SandBox\Meetings\bin\Debug\Common.pdb
+C:\Users\PC\Source\Repos\test\SandBox\Meetings\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\PC\Source\Repos\test\SandBox\Meetings\bin\Debug\Prism.xml
+C:\Users\PC\Source\Repos\test\SandBox\Meetings\bin\Debug\Prism.Wpf.xml
+C:\Users\PC\Source\Repos\test\SandBox\Meetings\obj\Debug\Meetings.csprojResolveAssemblyReference.cache
+C:\Users\PC\Source\Repos\test\SandBox\Meetings\obj\Debug\Views\ContentView.g.cs
+C:\Users\PC\Source\Repos\test\SandBox\Meetings\obj\Debug\Views\DetailsView.g.cs
+C:\Users\PC\Source\Repos\test\SandBox\Meetings\obj\Debug\Views\HeaderView.g.cs
+C:\Users\PC\Source\Repos\test\SandBox\Meetings\obj\Debug\Meetings_MarkupCompile.cache
+C:\Users\PC\Source\Repos\test\SandBox\Meetings\obj\Debug\Meetings_MarkupCompile.lref
+C:\Users\PC\Source\Repos\test\SandBox\Meetings\obj\Debug\Views\ContentView.baml
+C:\Users\PC\Source\Repos\test\SandBox\Meetings\obj\Debug\Views\DetailsView.baml
+C:\Users\PC\Source\Repos\test\SandBox\Meetings\obj\Debug\Views\HeaderView.baml
+C:\Users\PC\Source\Repos\test\SandBox\Meetings\obj\Debug\Meetings.g.resources
+C:\Users\PC\Source\Repos\test\SandBox\Meetings\obj\Debug\Meetings.Properties.Resources.resources
+C:\Users\PC\Source\Repos\test\SandBox\Meetings\obj\Debug\Meetings.csproj.GenerateResource.Cache
+C:\Users\PC\Source\Repos\test\SandBox\Meetings\obj\Debug\Meetings.dll
+C:\Users\PC\Source\Repos\test\SandBox\Meetings\obj\Debug\Meetings.pdb

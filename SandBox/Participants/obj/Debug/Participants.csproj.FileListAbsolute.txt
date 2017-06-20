@@ -27,3 +27,28 @@ C:\VS Projects\SandBox\Participants\obj\Debug\Participants.Properties.Resources.
 C:\VS Projects\SandBox\Participants\obj\Debug\Participants.csproj.GenerateResource.Cache
 C:\VS Projects\SandBox\Participants\obj\Debug\Participants.dll
 C:\VS Projects\SandBox\Participants\obj\Debug\Participants.pdb
+C:\Users\PC\Source\Repos\test\SandBox\Participants\bin\Debug\Participants.dll
+C:\Users\PC\Source\Repos\test\SandBox\Participants\bin\Debug\Participants.pdb
+C:\Users\PC\Source\Repos\test\SandBox\Participants\bin\Debug\BusinessLogic.dll
+C:\Users\PC\Source\Repos\test\SandBox\Participants\bin\Debug\Common.dll
+C:\Users\PC\Source\Repos\test\SandBox\Participants\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\PC\Source\Repos\test\SandBox\Participants\bin\Debug\BusinessLogic.pdb
+C:\Users\PC\Source\Repos\test\SandBox\Participants\bin\Debug\Common.pdb
+C:\Users\PC\Source\Repos\test\SandBox\Participants\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\PC\Source\Repos\test\SandBox\Participants\bin\Debug\Prism.xml
+C:\Users\PC\Source\Repos\test\SandBox\Participants\bin\Debug\Prism.Unity.Wpf.xml
+C:\Users\PC\Source\Repos\test\SandBox\Participants\bin\Debug\Prism.Wpf.xml
+C:\Users\PC\Source\Repos\test\SandBox\Participants\obj\Debug\Participants.csprojResolveAssemblyReference.cache
+C:\Users\PC\Source\Repos\test\SandBox\Participants\obj\Debug\Views\ParticipantNavigationView.g.cs
+C:\Users\PC\Source\Repos\test\SandBox\Participants\obj\Debug\Views\ParticipantView.g.cs
+C:\Users\PC\Source\Repos\test\SandBox\Participants\obj\Debug\UserControl1.g.cs
+C:\Users\PC\Source\Repos\test\SandBox\Participants\obj\Debug\Participants_MarkupCompile.cache
+C:\Users\PC\Source\Repos\test\SandBox\Participants\obj\Debug\Participants_MarkupCompile.lref
+C:\Users\PC\Source\Repos\test\SandBox\Participants\obj\Debug\Views\ParticipantNavigationView.baml
+C:\Users\PC\Source\Repos\test\SandBox\Participants\obj\Debug\Views\ParticipantView.baml
+C:\Users\PC\Source\Repos\test\SandBox\Participants\obj\Debug\UserControl1.baml
+C:\Users\PC\Source\Repos\test\SandBox\Participants\obj\Debug\Participants.g.resources
+C:\Users\PC\Source\Repos\test\SandBox\Participants\obj\Debug\Participants.Properties.Resources.resources
+C:\Users\PC\Source\Repos\test\SandBox\Participants\obj\Debug\Participants.csproj.GenerateResource.Cache
+C:\Users\PC\Source\Repos\test\SandBox\Participants\obj\Debug\Participants.dll
+C:\Users\PC\Source\Repos\test\SandBox\Participants\obj\Debug\Participants.pdb

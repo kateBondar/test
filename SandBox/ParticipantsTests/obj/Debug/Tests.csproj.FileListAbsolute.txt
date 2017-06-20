@@ -20,3 +20,25 @@ C:\VS Projects\SandBox\ParticipantsTests\bin\Debug\Microsoft.Practices.Unity.xml
 C:\VS Projects\SandBox\ParticipantsTests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
 C:\VS Projects\SandBox\ParticipantsTests\obj\Debug\ParticipantsTests.dll
 C:\VS Projects\SandBox\ParticipantsTests\obj\Debug\ParticipantsTests.pdb
+C:\Users\PC\Source\Repos\test\SandBox\ParticipantsTests\bin\Debug\ParticipantsTests.dll
+C:\Users\PC\Source\Repos\test\SandBox\ParticipantsTests\bin\Debug\ParticipantsTests.pdb
+C:\Users\PC\Source\Repos\test\SandBox\ParticipantsTests\bin\Debug\BusinessLogic.dll
+C:\Users\PC\Source\Repos\test\SandBox\ParticipantsTests\bin\Debug\Castle.Core.dll
+C:\Users\PC\Source\Repos\test\SandBox\ParticipantsTests\bin\Debug\Common.dll
+C:\Users\PC\Source\Repos\test\SandBox\ParticipantsTests\bin\Debug\Moq.dll
+C:\Users\PC\Source\Repos\test\SandBox\ParticipantsTests\bin\Debug\Participants.dll
+C:\Users\PC\Source\Repos\test\SandBox\ParticipantsTests\bin\Debug\Prism.dll
+C:\Users\PC\Source\Repos\test\SandBox\ParticipantsTests\bin\Debug\Prism.Wpf.dll
+C:\Users\PC\Source\Repos\test\SandBox\ParticipantsTests\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\PC\Source\Repos\test\SandBox\ParticipantsTests\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\PC\Source\Repos\test\SandBox\ParticipantsTests\bin\Debug\BusinessLogic.pdb
+C:\Users\PC\Source\Repos\test\SandBox\ParticipantsTests\bin\Debug\Common.pdb
+C:\Users\PC\Source\Repos\test\SandBox\ParticipantsTests\bin\Debug\Participants.pdb
+C:\Users\PC\Source\Repos\test\SandBox\ParticipantsTests\bin\Debug\Castle.Core.xml
+C:\Users\PC\Source\Repos\test\SandBox\ParticipantsTests\bin\Debug\Moq.xml
+C:\Users\PC\Source\Repos\test\SandBox\ParticipantsTests\bin\Debug\Prism.xml
+C:\Users\PC\Source\Repos\test\SandBox\ParticipantsTests\bin\Debug\Prism.Wpf.xml
+C:\Users\PC\Source\Repos\test\SandBox\ParticipantsTests\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\PC\Source\Repos\test\SandBox\ParticipantsTests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\PC\Source\Repos\test\SandBox\ParticipantsTests\obj\Debug\ParticipantsTests.dll
+C:\Users\PC\Source\Repos\test\SandBox\ParticipantsTests\obj\Debug\ParticipantsTests.pdb

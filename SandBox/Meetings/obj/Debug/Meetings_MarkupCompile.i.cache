@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\VS Projects\SandBox\Meetings\obj\Debug\
+C:\Users\PC\Source\Repos\test\SandBox\Meetings\obj\Debug\
 Meetings
 none
 false
@@ -12,8 +12,8 @@ DEBUG;TRACE
 
 3641144483
 
-111003328729
-69114223655
+11-1274761437
+69904544804
 Views\ContentView.xaml;Views\DetailsView.xaml;Views\HeaderView.xaml;
 
 True

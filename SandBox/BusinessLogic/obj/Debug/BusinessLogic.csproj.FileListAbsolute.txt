@@ -14,3 +14,19 @@ C:\VS Projects\SandBox\BusinessLogic\obj\Debug\BusinessLogic.Properties.Resource
 C:\VS Projects\SandBox\BusinessLogic\obj\Debug\BusinessLogic.csproj.GenerateResource.Cache
 C:\VS Projects\SandBox\BusinessLogic\obj\Debug\BusinessLogic.dll
 C:\VS Projects\SandBox\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\PC\Source\Repos\test\SandBox\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\PC\Source\Repos\test\SandBox\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\PC\Source\Repos\test\SandBox\BusinessLogic\bin\Debug\Common.dll
+C:\Users\PC\Source\Repos\test\SandBox\BusinessLogic\bin\Debug\Prism.dll
+C:\Users\PC\Source\Repos\test\SandBox\BusinessLogic\bin\Debug\Common.pdb
+C:\Users\PC\Source\Repos\test\SandBox\BusinessLogic\bin\Debug\Prism.xml
+C:\Users\PC\Source\Repos\test\SandBox\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\PC\Source\Repos\test\SandBox\BusinessLogic\obj\Debug\UserControl1.g.cs
+C:\Users\PC\Source\Repos\test\SandBox\BusinessLogic\obj\Debug\BusinessLogic_MarkupCompile.cache
+C:\Users\PC\Source\Repos\test\SandBox\BusinessLogic\obj\Debug\BusinessLogic_MarkupCompile.lref
+C:\Users\PC\Source\Repos\test\SandBox\BusinessLogic\obj\Debug\UserControl1.baml
+C:\Users\PC\Source\Repos\test\SandBox\BusinessLogic\obj\Debug\BusinessLogic.g.resources
+C:\Users\PC\Source\Repos\test\SandBox\BusinessLogic\obj\Debug\BusinessLogic.Properties.Resources.resources
+C:\Users\PC\Source\Repos\test\SandBox\BusinessLogic\obj\Debug\BusinessLogic.csproj.GenerateResource.Cache
+C:\Users\PC\Source\Repos\test\SandBox\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\PC\Source\Repos\test\SandBox\BusinessLogic\obj\Debug\BusinessLogic.pdb
