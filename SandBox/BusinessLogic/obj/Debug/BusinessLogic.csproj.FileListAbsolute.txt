@@ -1,0 +1,16 @@
+C:\VS Projects\SandBox\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\VS Projects\SandBox\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\VS Projects\SandBox\BusinessLogic\bin\Debug\Common.dll
+C:\VS Projects\SandBox\BusinessLogic\bin\Debug\Prism.dll
+C:\VS Projects\SandBox\BusinessLogic\bin\Debug\Common.pdb
+C:\VS Projects\SandBox\BusinessLogic\bin\Debug\Prism.xml
+C:\VS Projects\SandBox\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\VS Projects\SandBox\BusinessLogic\obj\Debug\UserControl1.g.cs
+C:\VS Projects\SandBox\BusinessLogic\obj\Debug\BusinessLogic_MarkupCompile.cache
+C:\VS Projects\SandBox\BusinessLogic\obj\Debug\BusinessLogic_MarkupCompile.lref
+C:\VS Projects\SandBox\BusinessLogic\obj\Debug\UserControl1.baml
+C:\VS Projects\SandBox\BusinessLogic\obj\Debug\BusinessLogic.g.resources
+C:\VS Projects\SandBox\BusinessLogic\obj\Debug\BusinessLogic.Properties.Resources.resources
+C:\VS Projects\SandBox\BusinessLogic\obj\Debug\BusinessLogic.csproj.GenerateResource.Cache
+C:\VS Projects\SandBox\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\VS Projects\SandBox\BusinessLogic\obj\Debug\BusinessLogic.pdb
